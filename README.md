@@ -28,7 +28,22 @@
 | ![det-enh](./data/Fig9.png)            |
 
 
-
+## Reference
+If you find this repository useful or our work is related to your research, please kindly cite it:
+```
+@article{HUO2024103714,
+title = {High kinetic energy mesoscale eddy identification based on multi-task learning and multi-source data},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {128},
+pages = {103714},
+year = {2024},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2024.103714},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843224000682},
+author = {Jidong Huo and Jie Zhang and Jungang Yang and Chuantao Li and Guangliang Liu and Wei Cui},
+keywords = {Mesoscale eddy, Deep learning, Contour detection, Multi-source features},
+}
+```
 
 
 ### Acknowledgements
