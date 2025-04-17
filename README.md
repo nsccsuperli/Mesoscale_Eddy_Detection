@@ -1,6 +1,6 @@
 
 ### Resources
-- Implementation of **MFDE** (Mesoscale eddy detection based on multi-feature fusion network) 
+- Implementation of **MFDE** (High kinetic energy mesoscale eddy identification based on multi-task learning and multi-source data) 
 
 ### Datasets 
 1. SSH data: [ADT Dataset ](https://data.marine.copernicus.eu/products))
